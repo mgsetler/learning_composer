@@ -1,0 +1,16 @@
+{
+	"name": "lil/learning_composer",
+	"description": "Simple example pulling colours out of an image.",
+	"type": "project",
+	"license": "GPL 3.0",
+	"authors": [
+		{
+			"name": "Maria Espino",
+			"email": "mgsetler@gmail.com"
+		}
+	],
+	"require": {
+		"league/color-extractor": "0.3.*",
+		"monolog/monolog": "1.23.0"
+	}
+}
